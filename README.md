@@ -1,2 +1,0 @@
-# Website-Catalog
-Megapixel
